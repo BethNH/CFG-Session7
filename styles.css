@@ -1,0 +1,98 @@
+* {
+font-family: 'Merriweather', serif; 
+font-weight: 300;  
+}
+.welcome{
+    text-align: center;
+    font-weight: 400;
+}
+.merriweather-light {
+    font-weight: 300;
+    text-align: center;
+}
+.h1{
+    font-weight: 400;
+}
+.nav {
+    background-color: #495563;
+    background-size: cover;
+    font-weight: 200;
+    padding: 20px;
+    text-align: left;
+}
+.home {
+    color: white;
+    padding: 10px;
+}
+#banner {
+background-color: #6D8687;
+background-size: cover;
+text-align: center;
+color: white;
+padding: 20px 0 0 10px;
+}
+.intro{
+    padding: 20px;
+    border: 1px;
+    margin: 2px;
+}
+.second-link {
+    color: white;
+    padding: 10px;
+}
+.gallery {
+    background-color: #6d8687 ;
+    background-size: cover;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    padding: 0px;
+}
+.skol {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding: 25px 50px 25px 50px;
+
+}
+.hobbies {
+    text-align: center;
+    color: white;
+    font-weight: 300;
+}
+.list{
+    color: white;
+    font-weight: 300;
+    padding-bottom: 20px;
+}
+.inpage {
+    color: white;
+    font-weight: 300;
+}
+.footer{
+    background-color:#495563;
+    display: block;
+    text-align: center;
+    font-weight: 400;
+    color: white;
+    padding: 20px;
+}
+.tableintro{
+    padding-bottom: 15px;
+}
+.table, th, td {
+    border: 1px solid;
+    padding: 4px;
+  }
+  .creator{
+    color: white;
+    font-weight: 300;
+  }
+  .suggest {
+    padding-bottom: 15px;
+  }
+  .button{
+    padding: 25px 50px 25px 50px;
+  }
